@@ -1,0 +1,80 @@
+TChatty
+v7
+r1
+cCheck dependencies
+
+N/Users/varun/Documents/Developer Apps/chatty/ChatRoomViewController.xib
+c0000000049EDE7DA000000000000301A
+t1240328154
+s12314
+
+N/Users/varun/Documents/Developer Apps/chatty/ChattyViewController.xib
+c0000000049EE0B340000000000003188
+t1240337204
+s12680
+
+N/Users/varun/Documents/Developer Apps/chatty/MainWindow.xib
+c0000000049EE1CE6000000000000354C
+t1240341734
+s13644
+
+N/Users/varun/Documents/Developer Apps/chatty/WelcomeViewController.xib
+c0000000049EF5802000000000000284B
+t1240422402
+s10315
+
+N/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app
+t2
+s0
+
+N/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app/Contents/Info.plist
+t2
+s0
+
+N/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app/Contents/Resources/ChatRoomViewController.nib
+t2
+s0
+
+N/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app/Contents/Resources/ChattyViewController.nib
+t2
+s0
+
+N/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app/Contents/Resources/WelcomeViewController.nib
+t2
+s0
+
+NInfo.plist
+c0000000049EDE1BA000000000000036F
+t1240326586
+s879
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341640478#341640479#0(73"[BEROR]error: There is no SDK with the name or path 'iphonesimulator2.2'1(4@65"error: There is no SDK with the name or path 'iphonesimulator2.2'341640479#18446744073709551615#0#0(1@0"0(0#1#0"17229193728#0"0#
+
+CCompileXIB "/Users/varun/Documents/Developer Apps/chatty/ChatRoomViewController.xib"
+r0
+
+CCompileXIB "/Users/varun/Documents/Developer Apps/chatty/ChattyViewController.xib"
+r0
+
+CCompileXIB "/Users/varun/Documents/Developer Apps/chatty/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/varun/Documents/Developer Apps/chatty/WelcomeViewController.xib"
+r0
+
+CProcessInfoPlistFile "/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/varun/Documents/Developer Apps/chatty/build/Debug/Chatty.app"
+r0
+

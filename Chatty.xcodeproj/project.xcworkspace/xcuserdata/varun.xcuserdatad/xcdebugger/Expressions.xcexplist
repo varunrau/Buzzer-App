@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SettingsViewController dealloc]:SettingsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ChattyViewController viewDidLoad]:ChattyViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(const char)*(((((&apos;NSUserDefaults&apos; *) (defaults)))-&gt;isa)-&gt;name)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController alertView:didDismissWithButtonIndex:]:SettingsViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
